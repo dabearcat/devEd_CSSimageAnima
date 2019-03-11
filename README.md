@@ -1,2 +1,2 @@
 # devFuns
-A fun spot where I put all of my small front-end dev experiments, from image effects to trying to understand flex boxes better. Here's to trying to learn more! 
+The completed tutorial created by Dev Ed (on YouTube) using images from pexels.com. Here is the [link] (https://www.youtube.com/watch?v=N4yY-rkhkKY&list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ&index=4) to the tutorial. Highly recommend!
